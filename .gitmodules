@@ -1,3 +1,6 @@
 [submodule "m4rket"]
 	path = m4rket
 	url = https://github.com/ABPMultimediaUA/m4rket.git
+[submodule "TFG"]
+	path = TFG
+	url = https://github.com/Martiinfiierro/TFG_MFP.git
